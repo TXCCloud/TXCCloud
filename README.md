@@ -2,6 +2,9 @@
 <hr>
 <h2 style='text algin: center'>My current technology stack:
                                  <ul>
-                                       <li>C#</li>
-                                       <li>Node.js</li>
+                                       <li>C# (Beginner></li>
+                                       <li>JavaScript (Node.js)</li>
                                  </ul>
+<hr>
+  <h2 style='text algin: center'>Previously tried myself as a frontend developer (HTML + CSS + JavaScript&jQuery)</h2>
+  

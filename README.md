@@ -2,7 +2,7 @@
 <hr>
 <h2 style='text algin: center'>My current technology stack:
                                  <ul>
-                                       <li>C# (Beginner></li>
+                                       <li>C# (Beginner)</li>
                                        <li>JavaScript (Node.js)</li>
                                  </ul>
 <hr>

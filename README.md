@@ -6,5 +6,5 @@
                                        <li>JavaScript (Node.js)</li>
                                  </ul>
 <hr>
-  <h2 style='text algin: center'>Previously tried myself as a frontend developer (HTML + CSS + JavaScript&jQuery)</h2>
+  <h2 style='text algin: center'>Previously tried myself as a frontend developer (HTML + CSS + JavaScript&jQuery) and a Python developer</h2>
   
